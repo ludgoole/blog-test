@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Ludgoole
+subtitle: '谁怕？一蓑烟雨任平生'
 description: ''
 keywords:
-author: John Doe
+author: Ludgoole
 language: en
 timezone: ''
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yet-the-books
+theme: cactus-light
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
